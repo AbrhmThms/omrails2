@@ -5,6 +5,7 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'simple_form'
 gem 'debugger'
+gem "paperclip", "~> 3.0"
 
 
 group :production do
